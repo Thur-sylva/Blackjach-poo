@@ -65,6 +65,150 @@
             "pontuacao_jogador": 23,
             "pontuacao_dealer": 19,
             "resultado": "derrota"
+        },
+        {
+            "jogador": "arthur",
+            "pontuacao_jogador": 25,
+            "pontuacao_dealer": 21,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "arthur",
+            "pontuacao_jogador": 22,
+            "pontuacao_dealer": 21,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "arthur",
+            "pontuacao_jogador": 15,
+            "pontuacao_dealer": 20,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "arthur",
+            "pontuacao_jogador": 17,
+            "pontuacao_dealer": 18,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "arthur",
+            "pontuacao_jogador": 19,
+            "pontuacao_dealer": 19,
+            "resultado": "empate"
+        },
+        {
+            "jogador": "arthur",
+            "pontuacao_jogador": 18,
+            "pontuacao_dealer": 24,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "Arthur",
+            "pontuacao_jogador": 24,
+            "pontuacao_dealer": 10,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "Arthur",
+            "pontuacao_jogador": 19,
+            "pontuacao_dealer": 18,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "arthur",
+            "pontuacao_jogador": 20,
+            "pontuacao_dealer": 18,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "amaral",
+            "pontuacao_jogador": 10,
+            "pontuacao_dealer": 21,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "amaral",
+            "pontuacao_jogador": 20,
+            "pontuacao_dealer": 27,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "amaral",
+            "pontuacao_jogador": 20,
+            "pontuacao_dealer": 27,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "amaral",
+            "pontuacao_jogador": 14,
+            "pontuacao_dealer": 18,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "amaral",
+            "pontuacao_jogador": 20,
+            "pontuacao_dealer": 24,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "amaral",
+            "pontuacao_jogador": 22,
+            "pontuacao_dealer": 12,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "amaral",
+            "pontuacao_jogador": 24,
+            "pontuacao_dealer": 12,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "amaral",
+            "pontuacao_jogador": 32,
+            "pontuacao_dealer": 12,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "amaral",
+            "pontuacao_jogador": 22,
+            "pontuacao_dealer": 12,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "amaral",
+            "pontuacao_jogador": 30,
+            "pontuacao_dealer": 12,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "amaral",
+            "pontuacao_jogador": 32,
+            "pontuacao_dealer": 12,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "amaral",
+            "pontuacao_jogador": 35,
+            "pontuacao_dealer": 12,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "amaral",
+            "pontuacao_jogador": 45,
+            "pontuacao_dealer": 12,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "amaral",
+            "pontuacao_jogador": 52,
+            "pontuacao_dealer": 12,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "amaral",
+            "pontuacao_jogador": 15,
+            "pontuacao_dealer": 19,
+            "resultado": "derrota"
         }
     ]
 }

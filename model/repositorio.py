@@ -16,7 +16,7 @@ class Repositorio:
         try:
             with open(self.caminho, "r") as f:
                 return json.load(f)
-        except json.JSONDecodeERROR:
+        except json.JSONDecodeError:
             return {"partidas": []}
 
         
