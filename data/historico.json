@@ -1,0 +1,70 @@
+{
+    "partidas": [
+        {
+            "jogador": "Rafa",
+            "pontuacao_jogador": 23,
+            "pontuacao_dealer": 17,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "Arthur",
+            "pontuacao_jogador": 19,
+            "pontuacao_dealer": 20,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "mel",
+            "pontuacao_jogador": 24,
+            "pontuacao_dealer": 13,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "mel",
+            "pontuacao_jogador": 20,
+            "pontuacao_dealer": 19,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "mel",
+            "pontuacao_jogador": 18,
+            "pontuacao_dealer": 21,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "Vitinho",
+            "pontuacao_jogador": 20,
+            "pontuacao_dealer": 27,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "arthur",
+            "pontuacao_jogador": 21,
+            "pontuacao_dealer": 20,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "Arthur",
+            "pontuacao_jogador": 18,
+            "pontuacao_dealer": 15,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "Arthur",
+            "pontuacao_jogador": 23,
+            "pontuacao_dealer": 19,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "Arthur",
+            "pontuacao_jogador": 18,
+            "pontuacao_dealer": 15,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "Arthur",
+            "pontuacao_jogador": 23,
+            "pontuacao_dealer": 19,
+            "resultado": "derrota"
+        }
+    ]
+}

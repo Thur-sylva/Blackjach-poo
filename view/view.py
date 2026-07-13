@@ -24,11 +24,17 @@ class View:
         
     def exibir_resultado(self, resultado):
         if resultado == "vitoria":
+            print("  ")
             print ("Você ganhou!!")
-        elif resultado == "Derrota":
+            print("  ")
+        elif resultado == "derrota":
+            print("  ")
             print ("Você perdeu")
+            print("  ")
         else:
-            print("Empate!")
+            print("  ")
+            print("empate!")
+            print("  ")
 
     def pedir_nome(self):
      nome = input("Digite o seu nome: ")
@@ -40,5 +46,18 @@ class View:
             return True
         else:
             return False
+    
+    def exibir_historico(self, historico):
+        print("\n------------Histórico de Partidas-----------------------------")
 
+        if not historico:
+            print("Nenhuma partida registrada")
+            return
+        for i, partida in enumerate(historico, 1):
+            print(f"{i}. {partida['jogador']} | "
+                  f"Você: {partida['pontuacao_jogador']} |"
+                  f"Dealer: {partida['pontuacao_dealer']} | "
+                  f"Resultado: {partida['resultado']}")
+
+        print("---------------------------------------------------------------")
         
