@@ -256,10 +256,4 @@ class ViewGui:
             self._ao_clicar_novamente()
         self.tela_jogo()
 
-    def _finalizar(self, resultado):
-        pont_jogador = self.jogador.mao.calcular_pontuacao()
-        pont_dealer  = self.dealer.mao.calcular_pontuacao()
-
-        self.repositorio.salvar_partida(
-        self.jogador.nome, pont_jogador, pont_dealer, resultado)
-        self.view.tela_resultado(resultado, pont_jogador, pont_dealer)
+    

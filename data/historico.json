@@ -209,6 +209,240 @@
             "pontuacao_jogador": 15,
             "pontuacao_dealer": 19,
             "resultado": "derrota"
+        },
+        {
+            "jogador": "Lucas",
+            "pontuacao_jogador": 24,
+            "pontuacao_dealer": 13,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "Lucas",
+            "pontuacao_jogador": 21,
+            "pontuacao_dealer": 21,
+            "resultado": "empate"
+        },
+        {
+            "jogador": "Lucas",
+            "pontuacao_jogador": 18,
+            "pontuacao_dealer": 20,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "Lucas",
+            "pontuacao_jogador": 25,
+            "pontuacao_dealer": 5,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "Lucas",
+            "pontuacao_jogador": 17,
+            "pontuacao_dealer": 20,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "Lucas",
+            "pontuacao_jogador": 28,
+            "pontuacao_dealer": 11,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "Lucas",
+            "pontuacao_jogador": 28,
+            "pontuacao_dealer": 20,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "Lucas",
+            "pontuacao_jogador": 20,
+            "pontuacao_dealer": 21,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "Bruno",
+            "pontuacao_jogador": 22,
+            "pontuacao_dealer": 11,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "Bruno",
+            "pontuacao_jogador": 20,
+            "pontuacao_dealer": 18,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "Bruno",
+            "pontuacao_jogador": 22,
+            "pontuacao_dealer": 17,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "Bruno",
+            "pontuacao_jogador": 25,
+            "pontuacao_dealer": 17,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "roerto",
+            "pontuacao_jogador": 19,
+            "pontuacao_dealer": 17,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "roerto",
+            "pontuacao_jogador": 20,
+            "pontuacao_dealer": 18,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "roerto",
+            "pontuacao_jogador": 9,
+            "pontuacao_dealer": 18,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "roerto",
+            "pontuacao_jogador": 21,
+            "pontuacao_dealer": 22,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "mel",
+            "pontuacao_jogador": 26,
+            "pontuacao_dealer": 13,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "mel",
+            "pontuacao_jogador": 22,
+            "pontuacao_dealer": 12,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "mel",
+            "pontuacao_jogador": 24,
+            "pontuacao_dealer": 9,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "mel",
+            "pontuacao_jogador": 21,
+            "pontuacao_dealer": 24,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "mel",
+            "pontuacao_jogador": 21,
+            "pontuacao_dealer": 19,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "mel",
+            "pontuacao_jogador": 25,
+            "pontuacao_dealer": 10,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "mel",
+            "pontuacao_jogador": 20,
+            "pontuacao_dealer": 18,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "mel",
+            "pontuacao_jogador": 21,
+            "pontuacao_dealer": 22,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "mel",
+            "pontuacao_jogador": 20,
+            "pontuacao_dealer": 19,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "mel",
+            "pontuacao_jogador": 28,
+            "pontuacao_dealer": 14,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "mel",
+            "pontuacao_jogador": 13,
+            "pontuacao_dealer": 27,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "oooo",
+            "pontuacao_jogador": 23,
+            "pontuacao_dealer": 18,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "oooo",
+            "pontuacao_jogador": 19,
+            "pontuacao_dealer": 19,
+            "resultado": "empate"
+        },
+        {
+            "jogador": "oooo",
+            "pontuacao_jogador": 20,
+            "pontuacao_dealer": 26,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "oooo",
+            "pontuacao_jogador": 17,
+            "pontuacao_dealer": 25,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "oooo",
+            "pontuacao_jogador": 19,
+            "pontuacao_dealer": 18,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "oooo",
+            "pontuacao_jogador": 24,
+            "pontuacao_dealer": 20,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "oooo",
+            "pontuacao_jogador": 26,
+            "pontuacao_dealer": 16,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "oooo",
+            "pontuacao_jogador": 19,
+            "pontuacao_dealer": 19,
+            "resultado": "empate"
+        },
+        {
+            "jogador": "oooo",
+            "pontuacao_jogador": 27,
+            "pontuacao_dealer": 6,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "oooo",
+            "pontuacao_jogador": 18,
+            "pontuacao_dealer": 21,
+            "resultado": "derrota"
+        },
+        {
+            "jogador": "oooo",
+            "pontuacao_jogador": 19,
+            "pontuacao_dealer": 18,
+            "resultado": "vitoria"
+        },
+        {
+            "jogador": "oooo",
+            "pontuacao_jogador": 21,
+            "pontuacao_dealer": 20,
+            "resultado": "vitoria"
         }
     ]
 }
