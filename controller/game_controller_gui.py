@@ -70,7 +70,7 @@ class GameControllerGui:
             self.rodada_ativa = False  
             self.view.desabilitar_botoes()
             self.view.atualizar_mao_dealer(self.dealer.mao, oculto=False)
-            # dá tempo de ver a carta que estourou antes de mudar de tela
+            
             self.view.janela.after(1200, lambda: self._finalizar("derrota"))
 
     def ao_clicar_stand(self):
@@ -79,7 +79,7 @@ class GameControllerGui:
         self.rodada_ativa = False 
         self.view.desabilitar_botoes()
         self.view.atualizar_mao_dealer(self.dealer.mao, oculto=False)
-        # começa a "jogada" do dealer com um pequeno delay inicial
+       
         self.view.janela.after(700, self._dealer_joga_passo)
 
     def _dealer_joga_passo(self):
