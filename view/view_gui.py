@@ -86,7 +86,7 @@ class ViewGui:
     def tela_jogo(self):
         frame = tk.Frame(self.janela, bg=BG_MESA)
 
-        # ── área dealer ──
+       
         tk.Label(frame, text="D  E  A  L  E  R", bg=BG_MESA,
                  fg=COR_TEXTO, font=("Arial", 11, "bold")).pack(pady=(18, 4))
 
@@ -100,10 +100,10 @@ class ViewGui:
                                           font=("Arial", 11))
         self.label_pont_dealer.pack(pady=2)
 
-        # ── separador ──
+    
         tk.Frame(frame, bg=BG_ESCURO, height=3).pack(fill="x", padx=30, pady=8)
 
-        # ── área jogador ──
+        
         self.label_nome_jogador = tk.Label(frame, text="VOCÊ",
                                            bg=BG_MESA, fg=COR_TEXTO,
                                            font=("Arial", 11, "bold"))
@@ -120,7 +120,7 @@ class ViewGui:
                  bg=BG_MESA, fg=COR_DESTAQUE,
                  font=("Arial", 13, "bold")).pack(pady=4)
 
-        # ── botões ──
+       
         frame_botoes = tk.Frame(frame, bg=BG_MESA)
         frame_botoes.pack(pady=14)
 
@@ -199,7 +199,6 @@ class ViewGui:
             self._desenhar_carta(self.canvas_dealer, x, 8,
                                  carta.simbolo, carta.naipe.value)
             x += 72
-        pont = sum(c.get_valor() for c in mao.cartas)
         self.label_pont_dealer.config(text=f"Dealer: {mao.calcular_pontuacao()} pts")
 
     def desabilitar_botoes(self):
@@ -255,5 +254,3 @@ class ViewGui:
         if self._ao_clicar_novamente:
             self._ao_clicar_novamente()
         self.tela_jogo()
-
-    
